@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://winamaxcasino-online.com/
+Sitemap: https://winamaxcasino-online.com/sitemap.xml

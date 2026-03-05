@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#181B24",
+            "lang-select-color": "#222829",
+            "bg-light": "#181B24",
+            "welcome-bonus-bg": "#181B24",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#252831",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#5D5F67",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F20D0D",
+            "yellow": "#5D5F67",
+            "yellow-button": "#F20D0D",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#5D5F67",
+            "casino-cards": "#181B24",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#5D5F67",
+            "providers-back": "#181B24",
+            "faq-label": "#181B24",
+            "bg-footer": "#181B24",
+            "copyright": "#e7e7d5",
+            "starColor": "#5D5F67",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3899"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3901",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Winamax Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3902",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Winamax"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Winamax",
+                    "title": "Winamax — Sportsbook, Live Betting & Online Poker | Bonuses up to 100 and 250",
+                    "description": "Play poker and place sports bets with one account and a shared wallet. Claim welcome bonuses, join tournaments and leaderboards, complete missions, and collect rewards. Fast payments, easy control tools, and support via chat, email, and phone.",
+                    "canonical": "winamaxcasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3903",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "winamaxcasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3904"
+                },
+                "hero": {
+                    "title": "Winamax: Sports Betting and Poker with Bonuses & Tournaments",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3906",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3907",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Big bonuses for sports and poker.",
+                        "Frequent promos with free bets, missions.",
+                        "Tournaments with prizes and extra rewards.",
+                        "Live betting with fast event settlement.",
+                        "Smooth poker client for dynamic sessions.",
+                        "Fast deposits and confident withdrawals.",
+                        "Strong account and data protection."
+                    ],
+                    "advantagesAfterText": "We combine sportsbook and poker under one account, so you can play and place predictions without friction. Our platform is designed for comfortable play on any device, with clear tools for bankroll control. We focus on transparent promo rules, consistent settlement, and a smooth everyday experience.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Winamax Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3908",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Winamax Casino App",
+                    "mobileGooglePlayImageTitle": "Winamax Casino App",
+                    "mobileIosImageTitle": "Winamax Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Winamax",
+                        "description1": "We stand out by keeping winnings and bonuses in one wallet with clear earning paths. We run an active ecosystem of events, missions, and tournaments that keeps rewarding your play.\n",
+                        "items": [
+                            "Up to €100 on sports.",
+                            "Up to €250 on poker.",
+                            "Free bets and boosts often."
+                        ],
+                        "description2": "We’re a single platform where sports betting and poker share one account and one balance, so you can manage play and funds with ease. Getting started is quick: registration takes minutes, and the interface guides you straight to pre‑match lines, live action, and the poker lobby.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3909",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " We focus on speed and clarity—markets refresh fast, settlements stay consistent, and your full transaction history is always available. In poker, we support multiple formats so you can choose your pace: short sessions, deep tournament runs, or classic cash tables. If you love competition, we run recurring tournament series, leaderboards, and themed weeks that add extra rewards on top of standard prizes. On the sportsbook side, you’ll find a broad range of markets and handy bet‑management tools to shape picks around your style. We also bring entertainment into the mix: special events, media‑style activations, and daily missions that make routine play more engaging. Our bonus offers are built to support both newcomers and experienced players, including welcome packages and regular deposit deals. We reward activity through challenges and seasonal promos where prizes come from clear, simple actions. Loyalty benefits layer on top with tier perks, personalized offers, and ongoing rewards for consistent play. Comfort matters to us: fast payments, clear limits, and strong security settings help you stay in control. Responsible play is a core part of our approach, so self‑control tools and limits are easy to enable at any time. We support multiple devices so you can move from desktop to mobile without losing functionality. Notifications and personalization help you catch key matches, tournaments, and missions. Our goal is to give you options every day—place a bet, enter a tournament, complete a mission, or enjoy a quick session in your favorite format.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Winamax: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nAccess rules and responsible play\n<\/h3>\n\n<p>\nWe accept adults only and operate with a “security first, play second” mindset. To access betting and poker you need a personal account with accurate profile details. We request identity verification to protect your balance, speed up withdrawals, and prevent fraud. One account per person helps maintain fairness and correct bonus eligibility. We expect respectful behavior in chats and at the tables to keep the experience comfortable for everyone. Attempts to bypass rules, create multiple accounts, or abuse promotions can lead to bonus removal and access restrictions. We actively monitor integrity and financial operations. Responsible play matters, and we encourage you to set limits on deposits and wagering in advance. Self‑control tools are available, including time limits, spending limits, and breaks. If needed, you can activate self‑exclusion to take a longer pause. We also recommend tracking emotions and avoiding “chasing losses.”\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess requirements\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRegister with real details and verify contacts\n\n<\/li>\n            <li>• \nVerify identity before withdrawals\n\n<\/li>\n            <li>• \nOne account per user\n\n<\/li>\n            <li>• \nAgree to betting, poker, and promo rules\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts or account sharing\n\n<\/li>\n            <li>• \nBots, scripts, or prohibited software\n\n<\/li>\n            <li>• \nPromotion abuse and bonus manipulation\n\n<\/li>\n            <li>• \nHarassment, toxicity, threats, abusive language\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play tools\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDeposit limits: daily\/weekly\/monthly\n\n<\/li>\n            <li>• \nWager\/time limits: session control\n\n<\/li>\n            <li>• \nTime‑out: pause for a chosen period\n\n<\/li>\n            <li>• \nSelf‑exclusion: longer break when needed\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSecurity, licensing and confidentiality\n<\/h3>\n\n<p>\nWe build our service around regulated standards and secure‑access principles, so licensing and compliance are central to how we operate. Our verification processes help confirm identity and age while preventing unauthorized account access. We apply risk checks to financial operations to protect your balance and reduce the chance of fraudulent transactions. Rules and restrictions apply consistently to all users, supporting a fair and predictable environment. We continuously improve internal security procedures to match modern requirements.\n\n<\/p>\n<br>\n\n\n<p>\nWe protect data in transit with encryption, so payment and account details travel securely. We use multi‑layer authentication and encourage additional security options in your profile settings. When suspicious sign‑ins occur, we may request extra verification to safeguard the account. Access to sensitive data inside our systems is restricted via role‑based permissions and monitored. We reduce data retention where possible and follow secure processing principles.\n\n<\/p>\n<br>\n<p>\nOur privacy approach is built on transparency: we explain what data we need, why we request it, and how we use it. We process information to run your account, handle payments, complete required checks, and improve product quality. Marketing communications are configurable, and you can manage notifications in your profile. We don’t treat personal data as a commodity and follow the principle of necessity. Support conversations are protected and used only to resolve your requests.\n\n<\/p>\n<br>\n<p>\nOn payment security, we apply procedures designed to prevent financial abuse and illicit activity. This includes reasonable source‑of‑funds checks and monitoring for suspicious patterns. We log key account actions so you can review history and stay in control of operations. If needed, we can temporarily pause a withdrawal while verification is completed to protect the user. This approach supports stable payouts and platform trust.\n\n<\/p>\n<br>\n<p>\nWe also focus on game integrity and fair outcomes within our available betting and poker formats. In poker, transparent rules and anti‑fraud measures help deter prohibited tools and detect unfair behavior. In betting, we aim for accurate odds display, event statuses, and settlements. We keep improving interfaces so key information about bets, limits, and terms remains clear. Our goal is a comfortable, protected, and controllable environment where you feel in charge at every step.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayments: replenishment, withdrawal, and deadlines\n<\/h3>\n\n<p> \nWe designed the cashier to be smooth, so deposits and withdrawals don’t distract from play and predictions. You can fund your balance with familiar methods, and every transaction status appears in your account history. We protect financial actions with extra checks, especially for first withdrawals or changes in payment details. To speed up payouts, we recommend verifying identity and confirming contact details early. Most deposits post quickly so you can jump straight into betting or poker. Withdrawals are processed after security review and request confirmation. The time to receive funds depends on the chosen method and the payment provider’s processing window. We keep you informed at every step: request, approval, and dispatch. Large amounts or unusual activity may trigger additional checks to protect your balance. Our aim is stable payouts with clear conditions. Limits and available methods are always visible in your cashier.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #5D5F67;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank cards<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1 – 3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1 – 2 business days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2 – 5 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>E-wallets<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0 – 24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant bank payment<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0 – 24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Alternative local methods.<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant \/ up to 1 hour<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0 – 48 hours<\/td>\n    <\/tr>\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from 20\n\n<\/li>\n            <li>• \nDaily maximum: up to 10,000\n\n<\/li>\n            <li>• \nMonthly maximum: up to 50,000\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer support: quickly, clearly, on the case\n<\/h3>\n\n<p>\nOur support team helps with betting, poker, payments, and account questions without unnecessary friction. We respect your time, so we aim for fast replies and clear step‑by‑step solutions. Live chat gives real‑time help, while email is great for details and screenshots. Phone support fits urgent cases where speed and status clarification matter. We explain complex topics in simple language—from promo terms to document verification. Support assists with security settings, access recovery, and transaction checks. We also guide you on responsible play tools and limit settings. Service quality stays strong through internal standards and team training. Response times depend on demand, but security and payment requests are prioritized. We use your case history so you don’t need to repeat yourself. Helpful guides and quick instructions cover common questions.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast answers and guided steps\n\n<\/li>\n            <li>• \nEmail: detailed requests, attachments, confirmations\n\n<\/li>\n            <li>• \nPhone: urgent cases, status checks, security\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTypical response targets\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: usually 1–5 minutes\n\n<\/li>\n            <li>• \nPhone: usually 2–10 minutes waiting time\n\n<\/li>\n            <li>• \nEmail: usually 2–12 hours\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nKey interface and support languages are available in settings\n\n<\/li>\n            <li>• \nWe route cases to specialists by language when needed\n\n<\/li>\n            <li>• \nFor complex issues, we provide detailed guidance in your chosen language\n<\/li>\n\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Winamax",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty program: statuses, bonuses, and personal privileges\n<\/h3>\n<p>\nOur loyalty program is designed so your regular poker play and sports betting unlock extra benefits. We award points for activity, and those points help you reach tiers with stronger perks. The more consistently you play, the more personalized opportunities you receive—from boosted bonuses to priority service. Enrollment is automatic after registration, so you start building progress right away. The system stays clear: you can always see your tier, earned points, and what it takes to level up. Tiers unlock missions, higher rewards, and exclusive promotions. Extra bonuses come from active weeks, series participation, and completing challenges. We reward consistency, so steady daily play often delivers better value than one‑off spikes. The program includes special‑date gifts and tailored offers based on your play style. Rewards can be used across sportsbook and poker within one wallet. We refresh missions regularly so progress stays engaging.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nParticipation starts automatically after account creation\n\n<\/li>\n            <li>• \nConfirm email\/phone to activate personalized rewards\n\n<\/li>\n            <li>• \nVerify identity to access advanced privileges\n\n<\/li>\n            <li>• \nFollow fair‑play and promotion rules\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: starter tier after registration\n\n<\/li>\n            <li>• \nSilver: from 500 activity points in 30 days\n\n<\/li>\n            <li>• \nGold: from 2,000 activity points in 30 days\n\n<\/li>\n            <li>• \nPlatinum: from 7,500 activity points in 30 days\n\n<\/li>\n\t    <li>• \nDiamond: from 20,000 activity points in 30 days\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and perks \n<\/h4>\n\n <ul>\n            <li>• \nCashback: up to 15% weekly — returns part of activity as a bonus\n\n<\/li>\n            <li>• \nPersonal missions: up to 50 per week — rewards for simple goals (bets\/hands)\n\n<\/li>\n            <li>• \nReload bonus: up to 100 — boosts your balance on active days\n\n<\/li>\n            <li>• \nPoker bonus: up to 250 — rewards play and tournament participation\n\n<\/li>\n\t    <li>• \nPriority support: faster case handling at higher tiers\n\n<\/li>\n\t    <li>• \nBirthday gift: fixed bonus based on tier\n\n<\/li>\n\t    <li>• \nExclusive tournaments: closed events with extra prizes for tier members\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers: promotions, events, tournaments and seasonal activities\n<\/h3>\n\n<p>\nWe keep sportsbook and poker exciting through bonuses, special offers, and themed events that complement loyalty benefits but also stand on their own. New players get a strong start with welcome rewards so you can explore formats faster. On sports betting, we regularly run free bets and boosted odds around major fixtures. For live action, promo mechanics add extra value to your in‑game decisions. In poker, we host freerolls and tournament series where you can compete for prizes without large entry costs. We love competition, so we frequently run activity leaderboards where consistency matters as much as luck. Seasonal campaigns align offers with sports calendars and tournament schedules. Conditions stay clear: you know what to do and when rewards are credited. Extra prizes come from missions, tournament days, and active weekends. For players who mix markets, themed tasks reward smart singles and well‑built accumulators. We also run bet‑refund style promos where part of your stake returns as a bonus when conditions are met. In poker, extra rewards appear through special events, knockout formats, and flagship series tournaments. From time to time, we launch special weeks with increased rewards, higher free bet values, or stronger reload bonuses. We encourage trying new disciplines—play poker, get a sports reward, and vice versa. Everything is transparent in your account: progress, terms, and credits. Our goal is to always give you options—grab a free bet, enter a tournament, go live, or complete a quick mission for a reward.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOffers and promos\n<\/h4>\n\n <ul>\n            <li>• \nSports welcome bonus: up to 100 — a starter boost for early predictions\n\n<\/li>\n            <li>• \nPoker welcome bonus: up to 250 — unlocked progressively through play\n\n<\/li>\n            <li>• \nFree bets on top matches: up to 50 — free stakes on selected events\n\n<\/li>\n            <li>• \nOdds boost: +10% — extra value on selected markets\n\n<\/li>\n\t    <li>• \nBet cashback: up to 10% — partial refund on losses when conditions apply\n\n<\/li>\n\t    <li>• \nPoker tournament series: scheduled prize pools — major events with rewards\n\n<\/li>\n\t    <li>• \nFreerolls: 0 entry — tournaments with real prizes and no buy‑in\n\n<\/li>\n\t    <li>• \nActive weekends: up to 25 — bonuses for a run of bets or tournaments\n\n<\/li>\n\t    <li>• \nThemed missions: up to 30 — rewards for completing tasks on time\n\n<\/li>\n\t    <li>• \nAccumulator challenge: up to 20 — bonus for smart combined bets\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOur betting and games: sports, live and poker in one account\n<\/h3>\n\n<p>\nWe combine sports betting and poker so you can choose the format that fits your time and mood. The sportsbook includes strong pre‑match coverage and a live section with fast updates. You can place singles, accumulators, and mixed builds for flexible strategy. In live mode, it’s easy to track the match and make decisions as it unfolds. For risk control, we provide bet‑management features and clear settlement history. In poker, we offer cash tables and tournament formats for both short sessions and long‑run play. Multiple poker disciplines let you switch styles and find your ideal pace. The tournament schedule includes events with different structures and durations. We invest in lobby usability and filters so you can quickly find tables and tournaments you want. The shared wallet makes it easy to use rewards across both products. We also run challenges and events that enrich the experience and add value to your activity.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCore formats\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPre‑match betting: broad lines and extra markets\n\n<\/li>\n            <li>• \nLive betting: fast updates and easy navigation\n\n<\/li>\n            <li>• \nAccumulators: combined picks with unified settlement\n\n<\/li>\n            <li>• \nSpecials: long‑term markets and themed events\n\n<\/li>\n\t    <li>• \nPoker Cash: flexible cash sessions\n\n<\/li>\n\t    <li>• \nMulti‑table tournaments: regular schedules and series\n\n<\/li>\n\t    <li>• \nFast formats: quick tournaments for dynamic play\n\n<\/li>\n\t    <li>• \nOmaha and more: variety for different styles\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and maximum bets: limits for sports and poker\n<\/h3>\n\n<p> \nWe support an accessible entry with small amounts and allow higher play where it fits. Limits depend on the market, the event, the poker format, and your account security settings. You always see current restrictions in your account before confirming a bet or registering for a tournament. This helps you plan bankroll and choose the format that matches your style.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #5D5F67;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports bet (single)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports bet (accumulator)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live bet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Outrights \/ long‑term<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Poker Cash (table buy‑in)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Tournament buy‑in<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fast poker format (entry)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTournaments and leaderboards: how to participate, score points and collect prizes\n<\/h3>\n\n<p>\nWe run recurring tournament series and leaderboards so your activity can turn into extra rewards. Participation typically starts automatically when you register for an eligible tournament or meet an event’s conditions. Points are awarded across poker and sportsbook activity, with formulas that reward volume and consistency. In poker, points may depend on hands played, buy‑in level, and tournament performance. In betting, points are often tied to stake size, number of bets, and participation in highlighted markets. Some events include time‑based criteria to encourage daily engagement rather than one‑off spikes. Your leaderboard position updates in your account so you can track progress close to real time. Prizes are credited automatically after the leaderboard or series ends, while some promos require a quick “claim” click. We display rules and timing upfront: start, finish, and credit schedule. For convenience, tasks, points, and rank are visible in one place. Notifications help you catch final hours and key updates.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick tips to win\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPlay consistently: stability boosts total points\n\n<\/li>\n            <li>• \nComplete event missions: they act as progress accelerators\n\n<\/li>\n            <li>• \nPick the right formats: tournaments\/cash\/bet series\n\n<\/li>\n            <li>• \nWatch the table: adjust strategy based on rank\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow points are calculated\n<\/h4>\n\n <ul>\n            <li>• \nPoker: buy‑in + table activity + results\n\n<\/li>\n            <li>• \nBetting: stake size + bet count + live\/promo market participation\n\n<\/li>\n            <li>• \nTime factor: multipliers for consecutive active days\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to collect prizes\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAuto‑credit after the leaderboard\/series ends\n\n<\/li>\n            <li>• \n“Claim prize” confirmation in promos that require it\n\n<\/li>\n            <li>• \nCredits go to one shared wallet for poker and sports\n\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I use one balance for sportsbook and poker?",
+                            "answer": "Yes. We run a shared wallet, so you deposit once and allocate funds between betting and poker as you prefer.\n\n\n"
+                        },
+                        {
+                            "title": "How fast can I start after registration?",
+                            "answer": "Right after creating your account and confirming contacts, you can deposit and enter the sportsbook or poker lobby.\n\n\n"
+                        },
+                        {
+                            "title": "Why do I need identity verification?",
+                            "answer": "Verification protects your account and payouts, confirms age, and helps prevent fraud.\n\n\n"
+                        },
+                        {
+                            "title": "What if a bet settles differently than expected?",
+                            "answer": "Check your bet history and event details for settlement rules; if you need a review, support will guide you step by step.\n\n\n"
+                        },
+                        {
+                            "title": "What happens to a bonus if I withdraw funds?",
+                            "answer": "It depends on the bonus type. Your account shows progress and rules, and support can explain your specific bonus terms.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

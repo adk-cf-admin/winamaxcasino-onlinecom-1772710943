@@ -1,0 +1,19 @@
+{
+  "name": "Winamax",
+  "short_name": "Winamax",
+  "theme_color": "",
+  "background_color": "#181B24",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772709590-favicon-v2.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
